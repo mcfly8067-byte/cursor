@@ -1,0 +1,8 @@
+# 此 Git 仓库位于 Cursor 安装目录内，只跟踪官网项目
+/*
+!/.gitignore
+!/README.md
+!/.github/
+!/.github/**
+!/wanhua-promili/
+!/wanhua-promili/**
